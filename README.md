@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohit Saini</h1>
 <h3 align="center">Analyst from India</h3>
 
-- 🌱 I’m currently working as **Product Analytics**
+- 🌱 I’m currently working as **Product Analyst at Hunch**
 
 - 📫 How to reach me **mohitsaini0083@gmail.com**
 
